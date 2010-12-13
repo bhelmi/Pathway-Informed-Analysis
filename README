@@ -1,0 +1,28 @@
+This software implements a number of standard and novel machine
+learning algorithms developed to support my M.S. research.  The
+primary goal of this research was to explore classification and
+regression models based on metabolic profile data that incorporate
+knowledge of the metabolic pathway network of the particular organism
+from which the profiles are derived.  This general category of model
+is called Pathway Informed Analysis (PIA).
+
+Since all of the PIA algorithms are based on an undirected graphical
+model structure derived from a set of metabolic pathways, tools for
+retrieving and manipulating pathways are included as well.  There are
+several public databases that provide metabolic pathways.  Only the
+Kyoto Encyclopedia of Genes and Genomes (KEGG) and BioCyc are
+supported.
+
+The methods used to create pathway-based classifiers and results on a
+number of metabolic profile data sets are described in my M.S. thesis
+available at
+
+http://webdocs.cs.ualberta.ca/~papersdb/view_publication.php?pub_id=1040
+
+Note that this repository is currently incomplete.  My intention is to
+add more software in the future as it is ready for release.  I hope
+that others will find some of this stuff useful.
+
+
+Thomas Eastman
+tjeastman@gmail.com
