@@ -14,7 +14,7 @@
 ## along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ## -*- texinfo -*-
-## @deftypefn{Function File} {q =} wcov(@var{X}, @var{w}, @var{flag})
+## @deftypefn{Function File} {@var{q} =} wcov(@var{X}, @var{w}, @var{flag})
 ## Weighted covariance.
 ##
 ## Compute the weighted covariance matrix for the columns of the @var{n}

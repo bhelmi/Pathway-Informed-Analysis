@@ -14,7 +14,7 @@
 ## along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ## -*- texinfo -*-
-## @deftypefn{Function File} {mu =} wmean(@var{X}, @var{w})
+## @deftypefn{Function File} {@var{mu} =} wmean(@var{X}, @var{w})
 ## Weighted arithmetic mean.
 ##
 ## Compute the weighted arithmetic mean of the columns of the @var{n}

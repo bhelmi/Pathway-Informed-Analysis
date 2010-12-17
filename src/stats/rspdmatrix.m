@@ -14,7 +14,7 @@
 ## along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ## -*- texinfo -*-
-## @deftypefn{Function File} {M =} rspdmatrix(@var{n})
+## @deftypefn{Function File} {@var{M} =} rspdmatrix(@var{n})
 ## Random symmetric positive definite matrix.
 ##
 ## Generate a random @var{n} by @var{n} matrix that is symmetric and

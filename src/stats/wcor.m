@@ -14,7 +14,7 @@
 ## along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ## -*- texinfo -*-
-## @deftypefn{Function File} {r =} wcor(@var{X}, @var{w})
+## @deftypefn{Function File} {@var{r} =} wcor(@var{X}, @var{w})
 ## Weighted correlation.
 ##
 ## Compute the weighted correlation of the columns of the @var{n} by

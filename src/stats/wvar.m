@@ -14,7 +14,7 @@
 ## along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ## -*- texinfo -*-
-## @deftypefn{Function File} {v =} wvar(@var{X}, @var{w}, @var{flag})
+## @deftypefn{Function File} {@var{v} =} wvar(@var{X}, @var{w}, @var{flag})
 ## Weighted variance.
 ##
 ## Compute the weighted variance of the columns of the @var{n} by
