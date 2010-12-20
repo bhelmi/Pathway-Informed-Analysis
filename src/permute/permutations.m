@@ -27,8 +27,6 @@
 ## and it assumes that all instance weights are equal.
 ## @end deftypefn
 
-## PERMUTATIONS generate random permutations and evaluate learning algorithms
-
 function permutations(data, classes, graph, permute, learn, nperm, options)
 
   n = size(data, 1);
