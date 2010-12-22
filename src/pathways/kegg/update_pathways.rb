@@ -54,7 +54,6 @@ pathways.each do |path|
   # write the compound ID file for the current pathway
   File.open(file_cpd, 'w') do |f|
     compounds.each do |cpd|
-      puts cpd
       cpd_id = cpd.match(/^cpd:(C\d{5})$/)[1]
       f.puts cpd_id
     end
